@@ -10,4 +10,4 @@ from sys import argv
 name, hour, rate, bonus = argv
 
 calc = (int(hour) * int(rate)) + int(bonus)
-print("Your pay is equal", calc)
+print("Зарплата", calc)
