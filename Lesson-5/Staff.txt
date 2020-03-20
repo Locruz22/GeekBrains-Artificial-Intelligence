@@ -1,8 +1,0 @@
-Reeves:170000
-Goddard:21000
-Anderson:19999
-Viki:15001
-Nicholson:12999
-Freeman:14000
-Spoke:34000
-Smith:44000
